@@ -1,10 +1,13 @@
 + apple
 + banana
-? apple
-+ orange
-? grape
-- banana
-? banana
++ apple
 + grape
+? apple
++ banana
++ banana
+- banana
 ? grape
++ grape
+? banana
++ lemon
 #
